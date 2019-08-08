@@ -1,0 +1,38 @@
+/* selector {
+    property: value;    
+} */
+
+/* h1 {
+    color: red;
+}
+h2 {
+    color: blue
+}
+#heading-2 {
+    color: green;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
+.text-right {
+    text-align: right;
+}
+ */
+.text-red {
+    color: red;
+}
+.text-uppercase {
+    text-transform: uppercase;
+}
+.font-weight-bold {
+    font-weight: bold;
+}
+.font-indie {
+    font-family: 'Indie Flower', cursive;
+}
+#background-element {
+    height: 563px;
+    width: 1000px;
+    background-color: burlywood;
+    background-image: url(https://i.imgur.com/ZJnyY7U.jpg);
+    background-size: cover
+}
